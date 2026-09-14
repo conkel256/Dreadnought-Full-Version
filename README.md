@@ -232,4 +232,4 @@ This repository serves as the official landing page for Dreadnought. The softwar
 **Get the most recent version of Dreadnought today!**
 
 ---
-**Last updated:** 2026-09-13 22:53:57 UTC
+**Last updated:** 2026-09-14 00:46:27 UTC
